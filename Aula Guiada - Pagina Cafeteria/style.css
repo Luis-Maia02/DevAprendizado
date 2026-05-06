@@ -2,3 +2,8 @@
     height: 200px;
     object-fit: cover;
 }
+footer{
+    background-color: rgba(59, 30, 30, 0.922);
+    color: white;
+    
+}
